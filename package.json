@@ -1,0 +1,33 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "A api to retrive youtube data, search data, stream songs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dipu7388:santlal2016@github.com/dipu7388/youtube-backend.git"
+  },
+  "keywords": [
+    "Audio-youtube",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Dheerendra Kumar singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dipu7388/youtube-backend/issues"
+  },
+  "homepage": "https://github.com/dipu7388/youtube-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
